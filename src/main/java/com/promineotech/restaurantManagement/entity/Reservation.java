@@ -66,5 +66,14 @@ public class Reservation {
 		public void setStatus(ReservationStatus status) {
 			this.status = status;
 		}
+		public void setSubmitted(String reservation_time2) {
+			// TODO Auto-generated method stub
+			
+		}
+		public void setBooked(String reservation_time2) {
+			// TODO Auto-generated method stub
+			
+		}
+		
 		 
 }
